@@ -28,6 +28,6 @@ Jean Jacques Bagui
 
 #Licence
 
-Ce projet est placé sous la licence MIT.
+Ce projet est placé sous la licence <a href="https://opensource.org/licenses/MIT">MIT</a>.
 
 
