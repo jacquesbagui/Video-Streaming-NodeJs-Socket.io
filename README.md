@@ -25,3 +25,9 @@ Le serveur sera exécuté sur le port 8080. Vous pouvez le tester dans le (Chrom
 #Auteur
 
 Jean Jacques Bagui
+
+#Licence
+
+Ce projet est placé sous la licence MIT.
+
+
