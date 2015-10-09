@@ -1,0 +1,23 @@
+<html>
+<head>
+	<title>Live mikmik</title>
+	 <script src="https://cdn.socket.io/socket.io-1.1.0.js"></script>
+</head>
+<body>
+ <img id="play"/>
+ <div id="logger"></div>
+
+
+ <script>
+    var socket = io();
+    socket.on('stream',function(image){
+        
+        var img = document.getElementById("play");
+        img.src = image;
+
+        var log = document.getElementById('logger');
+        log.text(image);
+    });
+ </script>
+</body>
+</html>
