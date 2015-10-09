@@ -9,7 +9,7 @@
 Cette Première partie Simplement réalisé avec <a href="https://nodejs.org">Node.jS</a>, <a href="http://socket.io/">Socket.io</a>
 Navigator.getUserMedia
 
-<p>Le but se serait d'avoir Une Chaine De vidéo en Live qu'on dévra ajouter </p>
+<p>Le but se serait d'avoir Une Chaine De vidéo en Live </p>
 
 #Installation
 
