@@ -20,7 +20,7 @@ It requires node.js
 <li>npm install</li>
 <li>npm start</li>
 </ul>
-Le serveur sera exécuté sur le port 8080. Vous pouvez le tester dans le (Chrome or Firefox) browser en localhost:8080.
+Le serveur sera exécuté sur le port 8080. Vous pouvez le tester dans le (Chrome ou Firefox) browser en localhost:8080.
 
 #Auteur
 
