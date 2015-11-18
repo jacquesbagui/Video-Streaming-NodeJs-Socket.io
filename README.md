@@ -4,7 +4,7 @@
 
 <ul>
 <li>Node.js server</li>
-<li>Soket.io</li>
+<li>Socket.io</li>
 </ul>
 Cette Première partie Simplement réalisé avec <a href="https://nodejs.org">Node.jS</a>, <a href="http://socket.io/">Socket.io</a>
 Navigator.getUserMedia
